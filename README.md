@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rfkgaming89/Rfkgaming89/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rfkgaming89/Rfkgaming89/main/snake.yml" alt="Snake animation" />
 
 ###
 
