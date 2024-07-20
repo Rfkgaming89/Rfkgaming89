@@ -38,7 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rfkgaming89/Rfkgaming89/main/snake.yml" alt="Snake animation" />
 
 ###
 
