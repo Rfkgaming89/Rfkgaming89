@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://pbs.twimg.com/profile_images/1805807135256694785/c__rZzIE_400x400.jpg"  />
-
 ###
 
 <div align="left">
